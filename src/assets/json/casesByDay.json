@@ -1,0 +1,565 @@
+{
+	"China": [
+		{
+			"date": "22-jan",
+			"cases": 571,
+			"newCases": 0,
+			"activeCases": 554,
+            "deaths": 17,
+            "newDeaths":0
+		},
+		{
+			"date": "23-jan",
+			"cases": 830,
+			"newCases": 259,
+			"activeCases": 771,
+			"deaths": 25,
+            "newDeaths":8
+		},
+		{
+			"date": "24-jan",
+			"cases": 1287,
+			"newCases": 457,
+			"activeCases": 1208,
+			"deaths": 41,
+            "newDeaths":16
+		},
+		{
+			"date": "25-jan",
+			"cases": 1975,
+			"newCases": 688,
+			"activeCases": 1870,
+			"deaths": 56,
+            "newDeaths":15
+		},
+		{
+			"date": "26-jan",
+			"cases": 2744,
+			"newCases": 769,
+			"activeCases": 2613,
+			"deaths": 80,
+            "newDeaths":24
+		},
+		{
+			"date": "27-jan",
+			"cases": 4515,
+			"newCases": 1771,
+			"activeCases": 4349,
+			"deaths": 106,
+            "newDeaths":26
+		},
+		{
+			"date": "28-jan",
+			"cases": 5974,
+			"newCases": 1459,
+			"activeCases": 5739,
+			"deaths": 132,
+            "newDeaths":26
+		},
+		{
+			"date": "29-jan",
+			"cases": 7711,
+			"newCases": 1737,
+			"activeCases": 7417,
+			"deaths": 170,
+            "newDeaths":38
+		},
+		{
+			"date": "30-jan",
+			"cases": 9692,
+			"newCases": 1981,
+			"activeCases": 9308,
+			"deaths": 213,
+            "newDeaths":43
+		},
+		{
+			"date": "31-jan",
+			"cases": 11791,
+			"newCases": 2099,
+			"activeCases": 11289,
+			"deaths": 259,
+            "newDeaths":46
+		},
+		{
+			"date": "01-feb",
+			"cases": 14380,
+			"newCases": 2589,
+			"activeCases": 13748,
+			"deaths": 304,
+            "newDeaths":45
+		},
+		{
+			"date": "02-feb",
+			"cases": 17205,
+			"newCases": 2825,
+			"activeCases": 16369,
+			"deaths": 361,
+            "newDeaths":57
+		},
+		{
+			"date": "03-feb",
+			"cases": 20440,
+			"newCases": 3235,
+			"activeCases": 19383,
+			"deaths": 425,
+            "newDeaths":64
+		},
+		{
+			"date": "04-feb",
+			"cases": 24324,
+			"newCases": 3884,
+			"activeCases": 22942,
+			"deaths": 490,
+            "newDeaths":65
+		},
+		{
+			"date": "05-feb",
+			"cases": 28018,
+			"newCases": 3964,
+			"activeCases": 26302,
+			"deaths": 563,
+            "newDeaths":73
+		},
+		{
+			"date": "06-feb",
+			"cases": 31161,
+			"newCases": 3143,
+			"activeCases": 28985,
+			"deaths": 636,
+            "newDeaths":73
+		},
+		{
+			"date": "07-feb",
+			"cases": 34546,
+			"newCases": 3385,
+			"activeCases": 31774,
+			"deaths": 722,
+            "newDeaths":86
+		},
+		{
+			"date": "08-feb",
+			"cases": 37198,
+			"newCases": 2652,
+			"activeCases": 33738,
+			"deaths": 811,
+            "newDeaths":89
+		},
+		{
+			"date": "09-feb",
+			"cases": 40171,
+			"newCases": 2973,
+			"activeCases": 35982,
+			"deaths": 908,
+            "newDeaths":97
+		},
+		{
+			"date": "10-feb",
+			"cases": 42638,
+			"newCases": 2467,
+			"activeCases": 37626,
+			"deaths": 1016,
+            "newDeaths":108
+		},
+		{
+			"date": "11-feb",
+			"cases": 44653,
+			"newCases": 2015,
+			"activeCases": 38791,
+			"deaths": 1113,
+            "newDeaths":97
+		},
+		{
+			"date": "12-feb",
+			"cases": 58761,
+			"newCases": 14108,
+			"activeCases": 51591,
+			"deaths": 1259,
+            "newDeaths":146
+		},
+		{
+			"date": "13-feb",
+			"cases": 63851,
+			"newCases": 5090,
+			"activeCases": 55748,
+			"deaths": 1380,
+            "newDeaths":121
+		},
+		{
+			"date": "14-feb",
+			"cases": 66492,
+			"newCases": 2641,
+			"activeCases": 56873,
+			"deaths": 1523,
+            "newDeaths":143
+		},
+		{
+			"date": "15-feb",
+			"cases": 68500,
+			"newCases": 2008,
+			"activeCases": 57416,
+			"deaths": 1665,
+            "newDeaths":142
+		},
+		{
+			"date": "16-feb",
+			"cases": 70548,
+			"newCases": 2048,
+			"activeCases": 57934,
+			"deaths": 1770,
+            "newDeaths":105
+		},
+		{
+			"date": "17-feb",
+			"cases": 72439,
+			"newCases": 1888,
+			"activeCases": 58016,
+			"deaths": 1868,
+            "newDeaths":98
+		},
+		{
+			"date": "18-feb",
+			"cases": 74185,
+			"newCases": 1749,
+			"activeCases": 57805,
+			"deaths": 2004,
+            "newDeaths":136
+		},
+		{
+			"date": "19-feb",
+			"cases": 74576,
+			"newCases": 391,
+			"activeCases": 56301,
+			"deaths": 2118,
+            "newDeaths":114
+		},
+		{
+			"date": "20-feb",
+			"cases": 75465,
+			"newCases": 889,
+			"activeCases": 54921,
+			"deaths": 2236,
+            "newDeaths":118
+		},
+		{
+			"date": "21-feb",
+			"cases": 76288,
+			"newCases": 823,
+			"activeCases": 53284,
+			"deaths": 2345,
+            "newDeaths":109
+		},
+		{
+			"date": "22-feb",
+			"cases": 76936,
+			"newCases": 648,
+			"activeCases": 52093,
+			"deaths": 2442,
+            "newDeaths":97
+		},
+		{
+			"date": "23-feb",
+			"cases": 77150,
+			"newCases": 214,
+			"activeCases": 49824,
+			"deaths": 2592,
+            "newDeaths":150
+		},
+		{
+			"date": "24-feb",
+			"cases": 77658,
+			"newCases": 508,
+			"activeCases": 47765,
+			"deaths": 2663,
+            "newDeaths":71
+		},
+		{
+			"date": "25-feb",
+			"cases": 78064,
+			"newCases": 406,
+			"activeCases": 45600,
+			"deaths": 2715,
+            "newDeaths":52
+		},
+		{
+			"date": "26-feb",
+			"cases": 78497,
+			"newCases": 433,
+			"activeCases": 43258,
+			"deaths": 2744,
+            "newDeaths":29
+		},
+		{
+			"date": "27-feb",
+			"cases": 78824,
+			"newCases": 327,
+			"activeCases": 39919,
+			"deaths": 2788,
+            "newDeaths":44
+		},
+		{
+			"date": "28-feb",
+			"cases": 79251,
+			"newCases": 427,
+			"activeCases": 37414,
+			"deaths": 2835,
+            "newDeaths":47
+		},
+		{
+			"date": "29-feb",
+			"cases": 79824,
+			"newCases": 573,
+			"activeCases": 35129,
+			"deaths": 2870,
+            "newDeaths":35
+		},
+		{
+			"date": "01-mar",
+			"cases": 80026,
+			"newCases": 202,
+			"activeCases": 32616,
+			"deaths": 2912,
+            "newDeaths":42
+		},
+		{
+			"date": "02-mar",
+			"cases": 80151,
+			"newCases": 125,
+			"activeCases": 30004,
+			"deaths": 2943,
+            "newDeaths":31
+		},
+		{
+			"date": "03-mar",
+			"cases": 80270,
+			"newCases": 119,
+			"activeCases": 27423,
+			"deaths": 2981,
+            "newDeaths":38
+		},
+		{
+			"date": "04-mar",
+			"cases": 80409,
+			"newCases": 139,
+			"activeCases": 25353,
+			"deaths": 3012,
+            "newDeaths":31
+		},
+		{
+			"date": "05-mar",
+			"cases": 80552,
+			"newCases": 143,
+			"activeCases": 23784,
+			"deaths": 3042,
+            "newDeaths":30
+		},
+		{
+			"date": "06-mar",
+			"cases": 80651,
+			"newCases": 99,
+			"activeCases": 22179,
+			"deaths": 3070,
+            "newDeaths":28
+		},
+		{
+			"date": "07-mar",
+			"cases": 80695,
+			"newCases": 44,
+			"activeCases": 20533,
+			"deaths": 3097,
+            "newDeaths":27
+		},
+		{
+			"date": "08-mar",
+			"cases": 80735,
+			"newCases": 40,
+			"activeCases": 19016,
+			"deaths": 3319,
+            "newDeaths":22
+		},
+		{
+			"date": "09-mar",
+			"cases": 80754,
+			"newCases": 19,
+			"activeCases": 17721,
+			"deaths": 3136,
+            "newDeaths":17
+		},
+		{
+			"date": "10-mar",
+			"cases": 80778,
+			"newCases": 24,
+			"activeCases": 16136,
+			"deaths": 3158,
+            "newDeaths":22
+		}
+	],
+	"Italy":[
+		{"date": "15-Feb", "cases":3, "newCases":0, "activeCases":3, "deaths":0, "newDeaths":0},
+{"date": "16-Feb", "cases":3, "newCases":0, "activeCases":3, "deaths":0, "newDeaths":0},
+{"date": "17-Feb", "cases":3, "newCases":0, "activeCases":3, "deaths":0, "newDeaths":0},
+{"date": "18-Feb", "cases":3, "newCases":0, "activeCases":3, "deaths":0, "newDeaths":0},
+{"date": "19-Feb", "cases":3, "newCases":0, "activeCases":3, "deaths":0, "newDeaths":0},
+{"date": "20-Feb", "cases":4, "newCases":1, "activeCases":4, "deaths":0, "newDeaths":0},
+{"date": "21-Feb", "cases":21, "newCases":17, "activeCases":19, "deaths":1, "newDeaths":1},
+{"date": "22-Feb", "cases":79, "newCases":58, "activeCases":75, "deaths":2, "newDeaths":1},
+{"date": "23-Feb", "cases":157, "newCases":78, "activeCases":152, "deaths":3, "newDeaths":1},
+{"date": "24-Feb", "cases":229, "newCases":72, "activeCases":221, "deaths":7, "newDeaths":4},
+{"date": "25-Feb", "cases":323, "newCases":94, "activeCases":310, "deaths":11, "newDeaths":4},
+{"date": "26-Feb", "cases":470, "newCases":147, "activeCases":445, "deaths":12, "newDeaths":1},
+{"date": "27-Feb", "cases":655, "newCases":185, "activeCases":593, "deaths":17, "newDeaths":5},
+{"date": "28-Feb", "cases":889, "newCases":234, "activeCases":822, "deaths":21, "newDeaths":4},
+{"date": "29-Feb", "cases":1128, "newCases":239, "activeCases":1049, "deaths":29, "newDeaths":8},
+{"date": "1-Mar", "cases":1701, "newCases":573, "activeCases":1577, "deaths":41, "newDeaths":12},
+{"date": "2-Mar", "cases":2036, "newCases":335, "activeCases":1835, "deaths":52, "newDeaths":11},
+{"date": "3-Mar", "cases":2502, "newCases":466, "activeCases":2263, "deaths":79, "newDeaths":27},
+{"date": "4-Mar", "cases":3089, "newCases":587, "activeCases":2706, "deaths":107, "newDeaths":28},
+{"date": "5-Mar", "cases":3858, "newCases":769, "activeCases":3296, "deaths":148, "newDeaths":41},
+{"date": "6-Mar", "cases":4636, "newCases":778, "activeCases":3916, "deaths":197, "newDeaths":49},
+{"date": "7-Mar", "cases":5883, "newCases":1247, "activeCases":5061, "deaths":233, "newDeaths":36},
+{"date": "8-Mar", "cases":7375, "newCases":1492, "activeCases":6387, "deaths":366, "newDeaths":133},
+{"date": "9-Mar", "cases":9172, "newCases":1797, "activeCases":7985, "deaths":463, "newDeaths":97},
+{"date": "10-Mar", "cases":10149, "newCases":977, "activeCases":8514, "deaths":631, "newDeaths":168}
+	],
+	"S.Korea":[
+		{"date": "15-Feb", "cases":28, "newCases":0, "activeCases":19, "deaths":0, "newDeaths":0},
+{"date": "16-Feb", "cases":29, "newCases":0, "activeCases":20, "deaths":0, "newDeaths":0},
+{"date": "17-Feb", "cases":30, "newCases":0, "activeCases":20, "deaths":0, "newDeaths":0},
+{"date": "18-Feb", "cases":31, "newCases":0, "activeCases":19, "deaths":0, "newDeaths":0},
+{"date": "19-Feb", "cases":58, "newCases":27, "activeCases":42, "deaths":0, "newDeaths":0},
+{"date": "20-Feb", "cases":111, "newCases":53, "activeCases":94, "deaths":1, "newDeaths":1},
+{"date": "21-Feb", "cases":209, "newCases":98, "activeCases":190, "deaths":2, "newDeaths":1},
+{"date": "22-Feb", "cases":436, "newCases":227, "activeCases":416, "deaths":2, "newDeaths":0},
+{"date": "23-Feb", "cases":602, "newCases":166, "activeCases":578, "deaths":6, "newDeaths":4},
+{"date": "24-Feb", "cases":833, "newCases":231, "activeCases":803, "deaths":8, "newDeaths":2},
+{"date": "25-Feb", "cases":977, "newCases":144, "activeCases":994, "deaths":11, "newDeaths":3},
+{"date": "26-Feb", "cases":1261, "newCases":284, "activeCases":1225, "deaths":12, "newDeaths":1},
+{"date": "27-Feb", "cases":1766, "newCases":505, "activeCases":1729, "deaths":13, "newDeaths":1},
+{"date": "28-Feb", "cases":2337, "newCases":571, "activeCases":2297, "deaths":16, "newDeaths":3},
+{"date": "29-Feb", "cases":3150, "newCases":813, "activeCases":3109, "deaths":17, "newDeaths":1},
+{"date": "1-Mar", "cases":3736, "newCases":586, "activeCases":3685, "deaths":21, "newDeaths":4},
+{"date": "2-Mar", "cases":4335, "newCases":599, "activeCases":4277, "deaths":28, "newDeaths":7},
+{"date": "3-Mar", "cases":5186, "newCases":851, "activeCases":5120, "deaths":32, "newDeaths":4},
+{"date": "4-Mar", "cases":5621, "newCases":435, "activeCases":5498, "deaths":35, "newDeaths":3},
+{"date": "5-Mar", "cases":6284, "newCases":663, "activeCases":6107, "deaths":42, "newDeaths":7},
+{"date": "6-Mar", "cases":6593, "newCases":309, "activeCases":6415, "deaths":43, "newDeaths":1},
+{"date": "7-Mar", "cases":7041, "newCases":448, "activeCases":6875, "deaths":48, "newDeaths":5},
+{"date": "8-Mar", "cases":7313, "newCases":272, "activeCases":7097, "deaths":50, "newDeaths":2},
+{"date": "9-Mar", "cases":7478, "newCases":165, "activeCases":7178, "deaths":53, "newDeaths":3},
+{"date": "10-Mar", "cases":7513, "newCases":35, "activeCases":7165, "deaths":60, "newDeaths":7}
+
+	],
+	"France":[
+		{"date": "15-Feb", "cases":12, "newCases":0, "activeCases":7, "deaths":1, "newDeaths":0},
+{"date": "16-Feb", "cases":12, "newCases":0, "activeCases":7, "deaths":1, "newDeaths":0},
+{"date": "17-Feb", "cases":12, "newCases":0, "activeCases":6, "deaths":1, "newDeaths":0},
+{"date": "18-Feb", "cases":12, "newCases":0, "activeCases":4, "deaths":1, "newDeaths":0},
+{"date": "19-Feb", "cases":12, "newCases":0, "activeCases":4, "deaths":1, "newDeaths":0},
+{"date": "20-Feb", "cases":12, "newCases":0, "activeCases":4, "deaths":1, "newDeaths":0},
+{"date": "21-Feb", "cases":12, "newCases":0, "activeCases":4, "deaths":1, "newDeaths":0},
+{"date": "22-Feb", "cases":12, "newCases":0, "activeCases":1, "deaths":1, "newDeaths":0},
+{"date": "23-Feb", "cases":12, "newCases":0, "activeCases":1, "deaths":1, "newDeaths":0},
+{"date": "24-Feb", "cases":12, "newCases":0, "activeCases":0, "deaths":1, "newDeaths":0},
+{"date": "25-Feb", "cases":14, "newCases":0, "activeCases":2, "deaths":1, "newDeaths":0},
+{"date": "26-Feb", "cases":18, "newCases":4, "activeCases":5, "deaths":2, "newDeaths":1},
+{"date": "27-Feb", "cases":38, "newCases":20, "activeCases":25, "deaths":2, "newDeaths":0},
+{"date": "28-Feb", "cases":57, "newCases":19, "activeCases":44, "deaths":2, "newDeaths":0},
+{"date": "29-Feb", "cases":100, "newCases":43, "activeCases":86, "deaths":2, "newDeaths":0},
+{"date": "1-Mar", "cases":130, "newCases":30, "activeCases":116, "deaths":2, "newDeaths":0},
+{"date": "2-Mar", "cases":191, "newCases":61, "activeCases":176, "deaths":3, "newDeaths":1},
+{"date": "3-Mar", "cases":212, "newCases":21, "activeCases":196, "deaths":4, "newDeaths":1},
+{"date": "4-Mar", "cases":285, "newCases":73, "activeCases":269, "deaths":4, "newDeaths":0},
+{"date": "5-Mar", "cases":423, "newCases":138, "activeCases":404, "deaths":7, "newDeaths":3},
+{"date": "6-Mar", "cases":653, "newCases":230, "activeCases":632, "deaths":9, "newDeaths":2},
+{"date": "7-Mar", "cases":949, "newCases":296, "activeCases":921, "deaths":16, "newDeaths":7},
+{"date": "8-Mar", "cases":1209, "newCases":260, "activeCases":1178, "deaths":19, "newDeaths":3},
+{"date": "9-Mar", "cases":1412, "newCases":203, "activeCases":1370, "deaths":30, "newDeaths":11},
+{"date": "10-Mar", "cases":1784, "newCases":372, "activeCases":1739, "deaths":33, "newDeaths":3}
+
+	],
+	"Spain":[
+		{"date": "15-Feb", "cases":2, "newCases":0, "activeCases":0, "deaths":0, "newDeaths":0},
+{"date": "16-Feb", "cases":2, "newCases":0, "activeCases":0, "deaths":0, "newDeaths":0},
+{"date": "17-Feb", "cases":2, "newCases":0, "activeCases":0, "deaths":0, "newDeaths":0},
+{"date": "18-Feb", "cases":2, "newCases":0, "activeCases":0, "deaths":0, "newDeaths":0},
+{"date": "19-Feb", "cases":2, "newCases":0, "activeCases":0, "deaths":0, "newDeaths":0},
+{"date": "20-Feb", "cases":2, "newCases":0, "activeCases":0, "deaths":0, "newDeaths":0},
+{"date": "21-Feb", "cases":2, "newCases":0, "activeCases":0, "deaths":0, "newDeaths":0},
+{"date": "22-Feb", "cases":2, "newCases":0, "activeCases":0, "deaths":0, "newDeaths":0},
+{"date": "23-Feb", "cases":2, "newCases":0, "activeCases":0, "deaths":0, "newDeaths":0},
+{"date": "24-Feb", "cases":3, "newCases":0, "activeCases":1, "deaths":0, "newDeaths":0},
+{"date": "25-Feb", "cases":9, "newCases":6, "activeCases":7, "deaths":0, "newDeaths":0},
+{"date": "26-Feb", "cases":13, "newCases":0, "activeCases":11, "deaths":0, "newDeaths":0},
+{"date": "27-Feb", "cases":25, "newCases":12, "activeCases":23, "deaths":0, "newDeaths":0},
+{"date": "28-Feb", "cases":33, "newCases":8, "activeCases":31, "deaths":0, "newDeaths":0},
+{"date": "29-Feb", "cases":58, "newCases":25, "activeCases":56, "deaths":0, "newDeaths":0},
+{"date": "1-Mar", "cases":84, "newCases":26, "activeCases":82, "deaths":0, "newDeaths":0},
+{"date": "2-Mar", "cases":120, "newCases":36, "activeCases":118, "deaths":0, "newDeaths":0},
+{"date": "3-Mar", "cases":165, "newCases":45, "activeCases":162, "deaths":1, "newDeaths":1},
+{"date": "4-Mar", "cases":228, "newCases":63, "activeCases":224, "deaths":2, "newDeaths":1},
+{"date": "5-Mar", "cases":282, "newCases":54, "activeCases":276, "deaths":3, "newDeaths":1},
+{"date": "6-Mar", "cases":401, "newCases":119, "activeCases":387, "deaths":8, "newDeaths":5},
+{"date": "7-Mar", "cases":525, "newCases":124, "activeCases":485, "deaths":10, "newDeaths":2},
+{"date": "8-Mar", "cases":674, "newCases":149, "activeCases":625, "deaths":17, "newDeaths":7},
+{"date": "9-Mar", "cases":1231, "newCases":557, "activeCases":1169, "deaths":30, "newDeaths":13},
+{"date": "10-Mar", "cases":1695, "newCases":464, "activeCases":1524, "deaths":36, "newDeaths":6}
+
+	],
+	"USA":[
+		
+{"date": "15-Feb", "cases":15, "newCases":0, "activeCases":12, "deaths":0, "newDeaths":0},
+{"date": "16-Feb", "cases":15, "newCases":0, "activeCases":12, "deaths":0, "newDeaths":0},
+{"date": "17-Feb", "cases":15, "newCases":0, "activeCases":12, "deaths":0, "newDeaths":0},
+{"date": "18-Feb", "cases":15, "newCases":0, "activeCases":12, "deaths":0, "newDeaths":0},
+{"date": "19-Feb", "cases":15, "newCases":0, "activeCases":12, "deaths":0, "newDeaths":0},
+{"date": "20-Feb", "cases":15, "newCases":0, "activeCases":10, "deaths":0, "newDeaths":0},
+{"date": "21-Feb", "cases":35, "newCases":20, "activeCases":29, "deaths":0, "newDeaths":0},
+{"date": "22-Feb", "cases":35, "newCases":0, "activeCases":29, "deaths":0, "newDeaths":0},
+{"date": "23-Feb", "cases":35, "newCases":0, "activeCases":28, "deaths":0, "newDeaths":0},
+{"date": "24-Feb", "cases":53, "newCases":18, "activeCases":48, "deaths":0, "newDeaths":0},
+{"date": "25-Feb", "cases":57, "newCases":4, "activeCases":51, "deaths":0, "newDeaths":0},
+{"date": "26-Feb", "cases":60, "newCases":3, "activeCases":54, "deaths":0, "newDeaths":0},
+{"date": "27-Feb", "cases":60, "newCases":0, "activeCases":54, "deaths":0, "newDeaths":0},
+{"date": "28-Feb", "cases":63, "newCases":3, "activeCases":57, "deaths":0, "newDeaths":0},
+{"date": "29-Feb", "cases":68, "newCases":5, "activeCases":60, "deaths":1, "newDeaths":1},
+{"date": "1-Mar", "cases":75, "newCases":7, "activeCases":65, "deaths":1, "newDeaths":0},
+{"date": "2-Mar", "cases":100, "newCases":25, "activeCases":85, "deaths":6, "newDeaths":5},
+{"date": "3-Mar", "cases":124, "newCases":24, "activeCases":106, "deaths":9, "newDeaths":3},
+{"date": "4-Mar", "cases":158, "newCases":34, "activeCases":138, "deaths":11, "newDeaths":2},
+{"date": "5-Mar", "cases":221, "newCases":63, "activeCases":200, "deaths":12, "newDeaths":1},
+{"date": "6-Mar", "cases":319, "newCases":98, "activeCases":289, "deaths":15, "newDeaths":3},
+{"date": "7-Mar", "cases":435, "newCases":116, "activeCases":401, "deaths":19, "newDeaths":4},
+{"date": "8-Mar", "cases":541, "newCases":106, "activeCases":504, "deaths":22, "newDeaths":3},
+{"date": "9-Mar", "cases":704, "newCases":163, "activeCases":663, "deaths":26, "newDeaths":4},
+{"date": "10-Mar", "cases":994, "newCases":290, "activeCases":949, "deaths":30, "newDeaths":4}
+
+	],
+	"Iran":[
+		
+{"date": "15-Feb", "cases":0, "newCases":0, "activeCases":0, "deaths":0, "newDeaths":0},
+{"date": "16-Feb", "cases":0, "newCases":0, "activeCases":0, "deaths":0, "newDeaths":0},
+{"date": "17-Feb", "cases":0, "newCases":0, "activeCases":0, "deaths":0, "newDeaths":0},
+{"date": "18-Feb", "cases":0, "newCases":0, "activeCases":0, "deaths":0, "newDeaths":0},
+{"date": "19-Feb", "cases":2, "newCases":0, "activeCases":0, "deaths":2, "newDeaths":0},
+{"date": "20-Feb", "cases":5, "newCases":1, "activeCases":3, "deaths":2, "newDeaths":0},
+{"date": "21-Feb", "cases":18, "newCases":13, "activeCases":14, "deaths":4, "newDeaths":2},
+{"date": "22-Feb", "cases":29, "newCases":11, "activeCases":23, "deaths":6, "newDeaths":2},
+{"date": "23-Feb", "cases":43, "newCases":14, "activeCases":34, "deaths":8, "newDeaths":2},
+{"date": "24-Feb", "cases":61, "newCases":18, "activeCases":46, "deaths":12, "newDeaths":4},
+{"date": "25-Feb", "cases":95, "newCases":34, "activeCases":54, "deaths":16, "newDeaths":4},
+{"date": "26-Feb", "cases":139, "newCases":44, "activeCases":95, "deaths":19, "newDeaths":3},
+{"date": "27-Feb", "cases":245, "newCases":106, "activeCases":165, "deaths":26, "newDeaths":7},
+{"date": "28-Feb", "cases":388, "newCases":143, "activeCases":281, "deaths":34, "newDeaths":8},
+{"date": "29-Feb", "cases":593, "newCases":205, "activeCases":427, "deaths":43, "newDeaths":9},
+{"date": "1-Mar", "cases":978, "newCases":385, "activeCases":749, "deaths":54, "newDeaths":11},
+{"date": "2-Mar", "cases":1501, "newCases":523, "activeCases":1144, "deaths":66, "newDeaths":12},
+{"date": "3-Mar", "cases":2336, "newCases":835, "activeCases":1824, "deaths":77, "newDeaths":11},
+{"date": "4-Mar", "cases":2922, "newCases":586, "activeCases":2278, "deaths":92, "newDeaths":15},
+{"date": "5-Mar", "cases":3513, "newCases":591, "activeCases":2666, "deaths":108, "newDeaths":16},
+{"date": "6-Mar", "cases":4747, "newCases":1234, "activeCases":3710, "deaths":124, "newDeaths":16},
+{"date": "7-Mar", "cases":5823, "newCases":1076, "activeCases":4009, "deaths":145, "newDeaths":21},
+{"date": "8-Mar", "cases":6566, "newCases":743, "activeCases":4238, "deaths":194, "newDeaths":49},
+{"date": "9-Mar", "cases":7161, "newCases":595, "activeCases":4530, "deaths":237, "newDeaths":43},
+{"date": "10-Mar", "cases":8042, "newCases":881, "activeCases":5020, "deaths":291, "newDeaths":54}
+
+	]
+}

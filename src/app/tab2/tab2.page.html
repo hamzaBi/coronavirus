@@ -1,0 +1,36 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-buttons slot="end">
+      <ion-button>
+        <ion-icon slot="icon-only" ios="ellipsis-horizontal" md="ellipsis-vertical"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+    <ion-title class="ion-text-center" >
+      {{'TABS.tab2' | translate}}
+    </ion-title>
+  </ion-toolbar>
+  
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-list>
+    <ion-item *ngFor="let n of news" [routerLink]="['./', n.id]">
+      <ion-card [class]=" n.lang === 'ar' ? 'rightToLeft' : ''" >
+        <ion-card-header>
+          <ion-card-title class="ion-text-center" style="font-size: 16px;" >
+            {{n.title}}
+          </ion-card-title>
+          <ion-img  [src]="n.downUrl" ></ion-img>
+        </ion-card-header>
+        <ion-card-content>
+          <ion-text style="font-size: 17px; color: darkgray" >
+            {{n.content_0}}
+          </ion-text>
+        </ion-card-content>
+      </ion-card>
+    </ion-item>
+  </ion-list>
+
+  
+
+</ion-content>

@@ -1,0 +1,48 @@
+{
+	"TABS": {
+		"tab1": "cas",
+		"tab2": "actualités",
+		"tab3": "graphs",
+		"placeholder": "nom du pays",
+		"source": "source :",
+		"tab4": "params"
+	},
+	"CN_DT": {
+		"back_btn_text": "retour"
+	},
+
+	"TAB3": {
+		"title1": "Cas de coronavirus:",
+		"title2": "Cas actifs:",
+		"title3": "Actuellement infecté:",
+		"title4": "État doux",
+		"title5": "État critique",
+		"title6": "Cas fermés",
+		"title7": "Affaires avec issue",
+		"title8": "Rétabli",
+		"title9": "Décès",
+		"title10": "Cas par état",
+		"title11": "Total Des Cas",
+		"title12": "Total Des décès",
+		"title13": "total Vs Actif",
+		"title14": "Nouveaux cas quotidiens",
+		"title15": "Nouveaux décès quotidiens"
+	},
+	"TAB4": {
+		"language": "Langue",
+		"newsL": "Langue d'actualité",
+		"text1": "- choisissez l'option langue si vous souhaitez changer la langue de l'application",
+		"text2": "- lorsque vous choisissez une langue, la langue des actualités sera automatiquement réglée sur la langue choisie",
+		"text3": "- si vous voulez choisir une langue différente pour les actualités, vous pouvez la changer dans la section langue d'actualité'",
+		"text4": "- il existe trois langues principales: l'arabe, l'anglais et le français",
+		"text5": "- dans la section des nouvelles, vous trouverez 4 options, 3 pour les langues et la quatrième si vous voulez les voir toutes les langues",
+		"text6": "- si vous choisissez l'option tout, vous pourriez voir des nouvelles dans des langues qui ne sont pas encore prises en charge par l'application; espagnol par exemple"
+	},
+	"LANGUAGE":{
+        "en" : "Anglais",
+        "ar" : "Arab",
+		"fr" : "Français",
+		"all": "Tous les Langues"
+
+    }
+}

@@ -1,0 +1,126 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title class="ion-text-center" >
+      {{'TABS.tab3' | translate}}
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+
+  <div class="ion-text-center cases" >
+    <ion-card>
+      <ion-card-header>
+        <ion-card-title>
+          <ion-text>{{'TAB3.title1' | translate}}</ion-text>
+        </ion-card-title>
+      </ion-card-header>
+      <ion-card-content>
+        <ion-text class="total-cases" >{{data.total}}</ion-text>
+      </ion-card-content>
+    </ion-card>
+  </div>
+
+<div class="deatil-cases" >
+  <div class="ion-text-center active-cases" >
+    <ion-card>
+      <ion-card-header>
+        <ion-card-title>
+          <ion-text>{{'TAB3.title2' | translate}}</ion-text>
+        </ion-card-title>
+      </ion-card-header>
+      <ion-card-content>
+        <ion-grid>
+          <ion-row>
+            <ion-col>
+              <ion-text >{{'TAB3.title3' | translate}}</ion-text><br>
+              <ion-text >{{data.activeCases}}</ion-text>
+            </ion-col>
+          </ion-row>
+          <ion-row>
+            <ion-col size="6" >
+              <ion-text>{{'TAB3.title4' | translate}}</ion-text><br>
+              <ion-text color="primary" >{{data.mild}}</ion-text>
+            </ion-col>
+            <ion-col size="6">
+              <ion-text>{{'TAB3.title5' | translate}}</ion-text><br>
+              <ion-text color="danger" >{{data.critical}}</ion-text>
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+      </ion-card-content>
+    </ion-card>
+  </div>
+  <div class="ion-text-center closed-cases" >
+    <ion-card>
+      <ion-card-header>
+        <ion-card-title>
+          {{'TAB3.title6' | translate}}
+        </ion-card-title>
+      </ion-card-header>
+      <ion-card-content>
+        <ion-grid>
+          <ion-row>
+            <ion-col>
+              <ion-text>{{'TAB3.title7' | translate}}</ion-text><br>
+              <ion-text color="tertiary" >{{data.closedCases}}</ion-text>
+            </ion-col>
+          </ion-row>
+          <ion-row>
+            <ion-col>
+              <ion-text>{{'TAB3.title8' | translate}}</ion-text><br>
+              <ion-text color="success" >{{data.recovered}}</ion-text>
+            </ion-col>
+            <ion-col>
+              <ion-text>{{'TAB3.title9' | translate}} </ion-text><br>
+              <ion-text color="secondary" >{{data.totalDeathes}}</ion-text>
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+      </ion-card-content>
+    </ion-card>
+  </div>
+</div>
+
+
+
+  <div style="margin-top: 25px;" >
+    <ion-card>
+      <ion-header> 
+        <ion-card-title class="ion-text-center">
+          {{'TAB3.title10' | translate}}
+        </ion-card-title>
+      </ion-header>
+      <ion-card-content>
+        <canvas height="250" #doughnutCanvas></canvas>
+      </ion-card-content>
+    </ion-card>
+  </div>
+
+  <div>
+    <ion-card style="margin-top: 30px" >
+      <ion-header> 
+        <ion-card-title class="ion-text-center" size="medium" >
+          {{'TAB3.title11' | translate}}
+        </ion-card-title>
+      </ion-header>
+      <ion-card-content>
+        <canvas height="300" #casesCanvas></canvas>
+      </ion-card-content>
+    </ion-card>
+
+    <ion-card style="margin-top: 30px" >
+      <ion-header> 
+        <ion-card-title class="ion-text-center" size="medium" >
+          {{'TAB3.title12' | translate}}
+        </ion-card-title>
+      </ion-header>
+      <ion-card-content>
+        <canvas height="300" #deathesCanvas></canvas>
+      </ion-card-content>
+    </ion-card>
+</div>
+    
+    
+</ion-content>

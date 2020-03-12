@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>{{'TABS.tab4' | translate}}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item [routerLink]="['/lang-popover']">
+        <ion-icon name="flag-outline"></ion-icon>
+      <ion-label>{{'TAB4.language' | translate}}</ion-label>
+    </ion-item>
+    <ion-item [routerLink]="['/news-language-chooser']">
+        <ion-icon name="newspaper-outline"></ion-icon>
+      <ion-label>{{'TAB4.newsL' | translate}}</ion-label>
+    </ion-item>
+  </ion-list>
+
+  <ion-card >
+    <ion-card-content>
+      <ion-text>
+        {{'TAB4.text1' | translate}}<br>
+        {{'TAB4.text2' | translate}}<br>
+        {{'TAB4.text3' | translate}}<br>
+        {{'TAB4.text4' | translate}}<br>
+        {{'TAB4.text5' | translate}}<br>
+        {{'TAB4.text6' | translate}}
+      </ion-text>
+    </ion-card-content>
+  </ion-card>
+</ion-content>

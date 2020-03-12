@@ -1,0 +1,49 @@
+{
+    "TABS":{
+        "tab1": "cases",
+        "tab2": "news",
+        "tab3": "charts",
+        "placeholder":"country name",
+        "source": "source :",
+        "tab4": "settings"
+    },
+    "CN_DT":{
+        "back_btn_text": "back"
+    },
+    "TAB3":{
+        "title1": "Coronavirus cases :",
+        "title2": "Active cases :",
+        "title3": "Currently Infected:",
+        "title4": "Mild Condition",
+        "title5": "Critical Condition",
+        "title6": "Closed Cases",
+        "title7": "Cases with an outcome",
+        "title8": "Recovered",
+        "title9": "Deaths",
+        "title10": "Cases by Condition",
+        "title11": "Total Cases",
+        "title12": "Total Deaths",
+        "title13": "total cases vs active cases",
+        "title14": "daily new cases",
+        "title15": "daily new deaths"
+    },
+    "TAB4":{
+        "language": "Language",
+        "newsL": "News Language",
+        "text1": "- choose language if you want to change the language of the app",
+        "text2": "- when you choose a language the news language automaticly will be set to the choosen language",
+        "text3": "- if you want to choose different language for you the news you can change it in the news language section",
+        "text4": "- there are three main languages : Arabic, English, and French",
+        "text5": "- in the news section you'll find 4 options, 3 for the languages and the fourth is if you want to see all them all",
+        "text6": "- if you choose the all option, you might see news in languages that are not supported by the app yet; spanish for example"
+        
+    },
+    "LANGUAGE":{
+        "en" : "English",
+        "ar" : "Arabic",
+        "fr" : "French",
+        "all": "All Languages"
+
+    }
+
+}

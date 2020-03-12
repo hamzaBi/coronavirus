@@ -1,0 +1,33 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+ion-card-title {
+  font-size: 17px;
+  margin-top: 10px;
+}
+
+.total-cases {
+  margin-top: 10px;
+  font-size: 25px;
+  color: #505050;
+}
+
+.cases {
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.active-cases {
+  
+  font-size: 16px;
+}
+
+.closed-cases {
+  font-size: 16px;
+}
+
+.detail-cases  {
+  width: 100%;
+}

@@ -1,0 +1,47 @@
+
+<ion-header [translucent]="true" >
+    <ion-toolbar></ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true"  >
+  <ion-item class="fixed" slot="fixed"  >
+    <ion-searchbar (search)="scrollListVisible($event)" [placeholder]="'TABS.placeholder' | translate" [(ngModel)]="scrollTo" ></ion-searchbar> 
+  </ion-item>
+<br><br><br><br><br>
+  <ion-item >
+    <ion-grid>
+      <ion-row>
+        <ion-col size="6" class="ion-text-center" ><ion-icon name="globe-outline" color="secondary" ></ion-icon></ion-col>
+        <ion-col size="3" class="ion-text-start" ><ion-icon name="medkit-outline" color="success" ></ion-icon></ion-col>
+        <ion-col size="3" class="ion-text-start"><ion-icon name="skull-outline" color="danger" ></ion-icon></ion-col>
+      </ion-row>
+    </ion-grid>
+  </ion-item>
+      <ion-list #list>
+        <ion-item *ngFor="let d of data; let i = index" [routerLink]="['./', d.country]"  >
+          <ion-grid  >
+            <ion-row style="font-size: 18px;" [class]="d.color" >
+              <ion-col  size="6" class="ion-text-satart" *ngIf="lang === 'en'" ><div class="country">{{ d.country}}</div></ion-col>
+              <ion-col  size="6" class="ion-text-satart" *ngIf="lang === 'ar'"><div class="country">{{ d.country_ar}}</div></ion-col>
+              <ion-col  size="6" class="ion-text-satart" *ngIf="lang === 'fr'"><div class="country">{{ d.country_fr}}</div></ion-col>
+              <ion-col size="3" class="ion-text-start" >
+                {{d.cases}}
+                <sub [class]="(d.newCases.startsWith('+') ? 'warning-d':'ion-hide')+' ion-text-end'"> {{d.newCases}}</sub> 
+              </ion-col>
+              <ion-col size="3" class="ion-text-start" >
+                {{d.deathes}} 
+                <sub [class]="(d.newDeathes.startsWith('+') ? 'danger-d':'ion-hide')+' ion-text-end'"> {{d.newDeathes}}</sub> 
+              </ion-col>
+            </ion-row>
+          </ion-grid>
+        </ion-item>
+      </ion-list>
+     
+  
+  <ion-item>
+    <ion-text class="ion-text-center source"  >{{'TABS.source' | translate}} 
+      <a href="https://www.worldometers.info/coronavirus/#countries" >worldometers.info</a>
+    </ion-text>
+  </ion-item>
+</ion-content>
+
